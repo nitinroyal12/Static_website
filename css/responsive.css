@@ -1,0 +1,436 @@
+@media (max-width:1600px) {
+  main>.about>.box {
+    width: 90%;
+  }
+
+  main>.about>.box>.left>p {
+    font-size: 16px;
+  }
+
+  main>.about>.box>.left>ul {
+    font-size: 16px;
+  }
+}
+
+@media (max-width:1400px) {
+  main>.one>.left {
+    width: 80%;
+  }
+
+  main>.Relocation>.container>.col1 {
+    height: 300px;
+    width: 30%;
+  }
+
+  footer>.footone>.element1 {
+    width: 40%;
+  }
+
+  footer>.footone>.element {
+    width: 40%;
+  }
+
+  footer>.footone>.element2 {
+    width: 40%;
+  }
+}
+
+@media (max-width:1300px) {
+  main>.one>.left>p {
+    padding-right: 200px;
+  }
+
+  main>.one>.left>button {
+    margin-right: 300px;
+  }
+}
+
+@media(max-width:1350px) {
+  header>.nav2>.nav>.line {
+    display: none;
+  }
+
+  header>.nav2>.nav>.navbar1 {
+    width: 80%;
+  }
+}
+
+@media(max-width:1300px) {
+  main>.choose>.poster {
+    width: 65%;
+  }
+
+  main>.seeSome {
+    width: 100%;
+    padding: 50px 50px;
+  }
+
+  main>.seeSome>.left1>h3 {
+    font-size: 30px;
+  }
+}
+
+@media (max-width:1200px) {
+  main>.one>.left>h2 {
+    width: 90%;
+  }
+
+  main>.one>.left>p {
+    padding-right: 200px;
+    padding-left: 25px;
+  }
+
+  main>.one>.left>button {
+    margin-right: 370px;
+  }
+
+  main>.about>.box>.right>.div {
+    height: 200px;
+    width: 350px;
+  }
+
+  main>.about>.box>.right>.div>h2 {
+    font-size: 70px;
+  }
+
+  main>.about>.box>.right>.div>p {
+    font-size: 20px;
+  }
+
+  main>.Achievement>.first>.inner1 {
+    width: 90%;
+  }
+}
+
+@media (max-width:1150px) {
+  main>.one>.left>p {
+    padding-right: 150px;
+
+  }
+
+  main>.one>.left>button {
+    margin-right: 300px;
+  }
+}
+
+@media (max-width:1100px) {
+  main>.one>.left>h2 {
+    width: 100%;
+  }
+
+  main>.one>.left>p {
+    padding-right: 100px;
+    padding-left: 10px;
+  }
+
+  main>.one>.left>button {
+    margin-right: 200px;
+  }
+
+  main>.seeSome>.left1>.contain>.inner {
+    width: 100%;
+  }
+
+  main>.seeSome>.right1 {
+    width: 48%;
+  }
+}
+
+@media(max-width:1000px) {
+  header {
+    height: 70px;
+  }
+
+  header>.nav1 {
+    display: none;
+  }
+
+  header>.nav2>.nav>.navbar1 {
+    display: none;
+  }
+
+  header>.nav2>.nav>.line {
+    display: flex;
+  }
+
+  main>.one>.left {
+    width: 100%;
+  }
+
+  main>.one>.left>p {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  main>.one>.left>button {
+    margin-right: 0px;
+  }
+
+  main>.about>.box>.left {
+    width: 100%;
+  }
+
+  main>.about>.box>.right {
+    width: 100%;
+  }
+
+  main>.choose>.poster {
+    width: 100%;
+  }
+
+  main>.Delivery>h3 {
+    font-size: 16px;
+  }
+
+  main>.Delivery>h2 {
+    font-size: 40px;
+  }
+
+  main>.Services>.swiper {
+    display: none;
+  }
+
+  main>.Services>.swiper1 {
+    display: block;
+  }
+
+  main>.Relocation>.container>.col1 {
+    height: 300px;
+    width: 45%;
+  }
+
+  main>.seeSome {
+    justify-content: center;
+  }
+
+  main>.seeSome>.left1 {
+    width: 70%;
+    padding: 40px 0;
+  }
+
+  main>.seeSome>.right1 {
+    width: 70%;
+  }
+
+  main>.seeSome>.right1>form>p {
+    display: none;
+  }
+
+  main>.Achievement {
+    min-height: 550px;
+  }
+
+  main>.Achievement>.first>.inner1>.achievebox>.cards {
+    width: 45%;
+  }
+
+  main>.blog>h2 {
+    font-size: 30px;
+  }
+
+  footer>.footone {
+    width: 100%;
+    justify-content: space-around;
+  }
+
+  footer>.last {
+    font-size: 16px;
+  }
+}
+
+@media (max-width:800px) {
+  main>.one>.left {
+    padding: 0 100px;
+  }
+
+  main>.one>.left>h2 {
+    font-size: 40px;
+  }
+
+  main>.Relocation>.container>.col1>h4 {
+    font-size: 16px;
+  }
+
+  main>.seeSome>.left1 {
+    width: 85%;
+  }
+
+  main>.seeSome>.right1 {
+    width: 85%;
+  }
+
+}
+
+@media (max-width:600px) {
+  header>.nav2>.nav {
+    width: 100%;
+  }
+  header>.nav2>.nav>.line {
+    margin-right: 10px;
+  }
+
+  main>.about>.box>.right>.div {
+    display: none;
+  }
+
+  main>.choose>.poster>.one1>h2 {
+    font-size: 40px;
+  }
+
+  main>.choose>.poster>.one1>p {
+    font-size: 16px;
+  }
+
+  main>.choose>.poster>.two>.icon {
+    height: 50px;
+    font-size: 30px;
+  }
+
+  main>.choose>.poster>.three>.icon {
+    height: 50px;
+    font-size: 30px;
+  }
+
+  main>.choose>.poster>.four>.icon {
+    height: 50px;
+    font-size: 30px;
+  }
+
+  main>.choose>.poster>.two>.content>h2 {
+    font-size: 20px;
+  }
+
+  main>.choose>.poster>.three>.content>h2 {
+    font-size: 20px;
+  }
+
+  main>.choose>.poster>.four>.content>h2 {
+    font-size: 20px;
+  }
+
+  main>.Delivery>h2 {
+    font-size: 30px;
+  }
+
+  main>.Relocation>.container>.col1 {
+    width: 100%;
+  }
+
+  main>.seeSome {
+    padding: 20px 20px;
+  }
+
+  main>.seeSome>.left1 {
+    width: 100%;
+  }
+
+  main>.seeSome>.left1>.contain>.inner {
+    font-size: 16px;
+  }
+
+  main>.seeSome>.right1 {
+    width: 100%;
+  }
+
+  main>.seeSome>.right1>form {
+    padding: 10px;
+  }
+
+  footer>.footone {
+    padding: 0 20px;
+  }
+
+  footer>.footone>.element1 {
+    width: 100%;
+  }
+
+  footer>.footone>.element {
+    width: 100%;
+  }
+
+  footer>.footone>.element2 {
+    width: 100%;
+  }
+
+  footer>.last {
+    font-size: 12px;
+  }
+}
+
+@media (max-width:500px) {
+  main>.one>.left {
+    padding: 0 50px;
+  }
+
+  main>.choose>.poster>.two>.icon {
+    padding: 0 10px;
+  }
+
+  main>.choose>.poster>.three>.icon {
+    padding: 0 10px;
+  }
+
+  main>.choose>.poster>.four>.icon {
+    padding: 0 10px;
+  }
+
+  main>.Services>h3 {
+    font-size: 30px;
+  }
+
+  main>.seeSome>.right1>form>input {
+    height: 20px;
+  }
+
+  main>.seeSome>.right1>form>select {
+    height: 40px;
+  }
+
+  main>.Achievement>.first>.inner1>.achievebox>.cards {
+    width: 100%;
+  }
+
+  main>.Achievement>.first>.inner1>h3 {
+    font-size: 25px;
+  }
+
+  main>.blog .swiper-slide {
+    width: 300px;
+  }
+
+  main>.blog .swiper-slide h3 {
+    font-size: 20px;
+  }
+
+  footer>.last {
+    font-size: 9px;
+  }
+
+}
+
+@media(max-width:350px) {
+
+  header>.nav2>.nav {
+    width: 100%;
+  }
+
+  main>.one>.left>h2 {
+    font-size: 30px;
+  }
+
+  main>.Delivery{
+    padding: 10px;
+  }
+  main>.seeSome {
+    padding: 20px 10px;
+  }
+  main>.seeSome>.left1>h3{
+    font-size: 20px;
+  }
+  main>.seeSome>.left1>.contain>.inner {
+    font-size: 12px;
+  }
+  footer>.last {
+    font-size: 7px;
+  }
+}
